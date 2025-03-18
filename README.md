@@ -7,10 +7,10 @@
 | **Feature Alignment**  | PMC-OA   | https://huggingface.co/datasets/axiong/pmc_oa_beta |
 | **Feature Alignment**  | CM-VL-A   | https://huggingface.co/datasets/williamliu/ChiMed-VL |
 | **Medical VQA**  | VQA-RAD    | https://osf.io/89kps/ |
-| **Medical VQA** & **Disease Detection** | SLAKE    | https://www.med-vqa.com/slake/ |
 | **Medical VQA**  | PathVQA    | https://huggingface.co/datasets/flaviagiammarino/path-vqa |
 | **Medical VQA**  | M3D-VQA    | https://huggingface.co/datasets/GoodBaiBai88/M3D-VQA |
 | **Medical VQA**  | CM-VL-I     | https://huggingface.co/datasets/williamliu/ChiMed-VL |
+| **Medical VQA** & **Disease Detection** | SLAKE    | https://www.med-vqa.com/slake/ |
 | **Classification**  | MedMNIST    | https://medmnist.com/ |
 | **Report Generation**  | IU-Xray  | https://drive.google.com/file/d/1c0BXEuDy8Cmm2jfN0YYGkQxFZd2ZIoLg/view |
 | **Report Generation**  | PEIR GROSS  | https://github.com/nlpaueb/bioCaption |
