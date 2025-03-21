@@ -2,9 +2,9 @@
 
 ### Datasets downloading URL：
 
-| Task      | Dataset Name  | Link  | Pre-processed  Datasets ｜
-|--------------|--------------|-------|----------｜
-| **Feature Alignment**  | PMC-OA   | https://huggingface.co/datasets/axiong/pmc_oa_beta | [HuggingFace](https://huggingface.co/datasets/dz-osamu/PMC-OA)|
+| Task              | Dataset Name | Link                                                                 | Pre-processed Datasets                              |
+|-------------------|--------------|----------------------------------------------------------------------|----------------------------------------------------|
+| **Feature Alignment** | PMC-OA       | [PMC-OA Beta](https://huggingface.co/datasets/axiong/pmc_oa_beta)    | [HuggingFace](https://huggingface.co/datasets/dz-osamu/PMC-OA) |
 | **Feature Alignment**  | CM-VL-A   | https://huggingface.co/datasets/williamliu/ChiMed-VL | [HuggingFace]()|
 | **Medical VQA**  | VQA-RAD    | https://osf.io/89kps/ | [HuggingFace]()|
 | **Medical VQA**  | PathVQA    | https://huggingface.co/datasets/flaviagiammarino/path-vqa | [HuggingFace]()|
