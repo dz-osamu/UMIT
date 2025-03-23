@@ -26,4 +26,7 @@ Original dataset download URL and pre-processed datasets：
 | **Disease Detection**  | M3D-Seg    | https://huggingface.co/datasets/GoodBaiBai88/M3D-Seg | [HuggingFace](https://huggingface.co/datasets/dz-osamu/M3D-Seg)|
 | **Landmark Detection**  | IEEE ISBI Challenge 2015 Dataset    | https://opendatalab.com/OpenDataLab/Cephalometric_X-ray_Image | [HuggingFace](https://huggingface.co/datasets/dz-osamu/IEEE_ISBI_Challenge_2015)|
 
-
+## Results
+Here we show some example results from our model.
+![VQA Result](Example/vqa.png)
+**Medical Visual Question Answer**
