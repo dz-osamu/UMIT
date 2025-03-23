@@ -3,7 +3,7 @@
 ## Introduction
 
 With the rapid advancement of deep learning, Vision-Language Models (VLMs) have become essential for medical image analysis. However, existing VLMs often focus on specific tasks or single imaging modalities, limiting their generalizability. To address this, we propose UMIT, a Unified Multi-modal, Instruction-guided Transformer for medical imaging tasks. UMIT supports visual question answering, disease detection, medical report generation, classification and landmark detection across multiple imaging modalities. It also operates in both English and Chinese, enhancing accessibility. UMIT adopts a two-stage training strategy: a feature alignment stage to align visual and textual features, and an instruction fine-tuning stage that employs various instructions to enable UMIT to share knowledge across multiple tasks.
-
+![Overview of the UMIT](Example/pipeline.png)
 
 ## Data
 
