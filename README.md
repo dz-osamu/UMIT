@@ -29,4 +29,4 @@ Original dataset download URL and pre-processed datasets：
 ## Results
 Here we show some example results from our model.
 
-![Result](Example/result.png)
+![Result](Example/results.png)
