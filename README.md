@@ -28,5 +28,5 @@ Original dataset download URL and pre-processed datasets：
 
 ## Results
 Here we show some example results from our model.
-![VQA Result](Example/vqa.png)
-**Medical Visual Question Answer**
+
+![Result](Example/result.png)
