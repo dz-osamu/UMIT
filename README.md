@@ -26,6 +26,23 @@ Original dataset download URL and pre-processed datasets：
 | **Disease Detection**  | M3D-Seg    | https://huggingface.co/datasets/GoodBaiBai88/M3D-Seg | [HuggingFace](https://huggingface.co/datasets/dz-osamu/M3D-Seg)|
 | **Landmark Detection**  | IEEE ISBI Challenge 2015 Dataset    | https://opendatalab.com/OpenDataLab/Cephalometric_X-ray_Image | [HuggingFace](https://huggingface.co/datasets/dz-osamu/IEEE_ISBI_Challenge_2015)|
 
+## Evaluation
+Load checkpoint and eval dataset
+```bash
+swift infer --ckpt_dir "path/checkpoint" \
+            --val_dataset "path/test.jsonl" \
+            --result_dir "outputpath"
+```
+Our pre-trained model weights are available on Hugging Face Hub. You can access them via the following links:
+| Model       | Link                     |
+|-------------|---------------------------------------|
+| UMIT-B     | [HuggingFace](https://huggingface.co/dz-osamu/UMIT-B) |
+| Classification     | [HuggingFace](https://huggingface.co/dz-osamu/Classification) |
+| Medical VQA     | [HuggingFace](https://huggingface.co/dz-osamu/VQA) |
+| Report Generation     | [HuggingFace](https://huggingface.co/dz-osamu/Report_Generation) |
+| Disease Detection     | [HuggingFace](https://huggingface.co/dz-osamu/Disease_Detection) |
+| Landmark Detection    | [HuggingFace](https://huggingface.co/dz-osamu/Landmark_Detection) |
+
 ## Results
 Here we show some example results from our model.
 
