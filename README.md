@@ -30,8 +30,8 @@ Original dataset download URL and pre-processed datasets：
 Load checkpoint and eval dataset:
 ```bash
 MAX_PIXELS=602112 swift infer --ckpt_dir "path/checkpoint" \
-            --val_dataset "path/test.jsonl" \
-            --result_dir "outputpath"
+                              --val_dataset "path/test.jsonl" \
+                              --result_dir "outputpath"
 ```
 Our pre-trained model weights are available on Hugging Face Hub. You can access them via the following links:
 | Model       | Link                     |
