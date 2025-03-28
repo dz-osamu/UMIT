@@ -27,6 +27,14 @@ Original dataset download URL and pre-processed datasets：
 | **Landmark Detection**  | IEEE ISBI Challenge 2015 Dataset    | https://opendatalab.com/OpenDataLab/Cephalometric_X-ray_Image | [HuggingFace](https://huggingface.co/datasets/dz-osamu/IEEE_ISBI_Challenge_2015)|
 
 ## Evaluation
+Quick Start:
+```bash
+git clone https://github.com/modelscope/ms-swift.git
+cd ms-swift
+pip install -e .
+pip install qwen-vl-utils
+```
+
 Load checkpoint and eval dataset:
 ```bash
 MAX_PIXELS=602112 swift infer --ckpt_dir "path/checkpoint" \
