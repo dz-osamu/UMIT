@@ -27,7 +27,7 @@ Original dataset download URL and pre-processed datasets：
 | **Landmark Detection**  | IEEE ISBI Challenge 2015 Dataset    | https://opendatalab.com/OpenDataLab/Cephalometric_X-ray_Image | [HuggingFace](https://huggingface.co/datasets/dz-osamu/IEEE_ISBI_Challenge_2015)|
 
 ## Evaluation
-Quick Start:
+Quick start:
 ```bash
 git clone https://github.com/modelscope/ms-swift.git
 cd ms-swift
